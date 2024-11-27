@@ -3,7 +3,7 @@ I was able to get the test distriubted training to run , but unable to troublesh
 ![Sucessful_test](session6_test_distro.png)
 
 
-![Session6_wordplay_moduleload_error](Session6_wordplay_moduleload_error.png)
+![Session6_wordplay_moduleload_error](session6_wordplay_moduleload_error.png)
 
 There was a license error in teh installation of wordplay into the environment. 
 
