@@ -13,6 +13,7 @@ The accuracy from increaing the number of training epochs from 10 to 30
 ![Epochs_30](graphcore_mnist_epoch_30.png)
 
 
-None of these seem to improve the final training accuracy. So I dropped the learning rate to 0.10 and saw a ~1-2% change in final accuracy
+None of these seem to improve the final training accuracy. So I dropped the learning rate to 0.10 and saw a ~1-2% change in final accuracy which also wasnt dramatically lower.
+
 
 ![LR_0.10](graphcore_mnist_LR_010.png)
